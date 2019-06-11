@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the UpdateAdminClient API (version 2016-05-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/azsadmin-UpdateRuns/2016-05-01/swagger.json<br/>
-Generated at: 2019-05-07T17:37:36+03:00
+Generated at: 2019-06-11T18:13:44+03:00
 
 ## API Description
 
